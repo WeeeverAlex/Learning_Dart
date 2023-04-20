@@ -1,4 +1,4 @@
-import 'package:variaveis_basicas_dart/variaveis_basicas_dart.dart';
+import 'package:basic_variables/basic_variables.dart';
 import 'package:test/test.dart';
 
 void main() {
